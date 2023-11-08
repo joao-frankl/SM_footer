@@ -1,5 +1,5 @@
 # Social Mdia Footer
 
-### Simple modern footer for social midias to improve your site, aplication or anyelse you wish!
+### Simple modern footer for social midias.
 
 ![Footer for Social midias](./assets/footersocialmidias.gif)
