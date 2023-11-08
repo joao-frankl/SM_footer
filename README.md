@@ -2,4 +2,4 @@
 
 ### Simple modern footer for social midias to improve your site, aplication or anyelse you wish!
 
-!Footer for Social midias](./assets/footersocialmidias.gif)
+![Footer for Social midias](./assets/footersocialmidias.gif)
